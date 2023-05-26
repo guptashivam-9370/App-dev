@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Introduction app</string>
+    <string name="about_me"><u>About Me</u></string>
+    <string name="abc">"Hello, my name is Shivam Gupta, and I am a fresher in the Civil Engineering Department , My hobbies are to play  Badminton and Lawn Tennis, which I enjoy playing in my free time.I am currently learning C++ language.I have also worked in Alcheringa as Events Associate.I love to learn about new things and excited to join coding club  "</string>
+    <string name="gupta">Shivam\'s App</string>
+</resources>
